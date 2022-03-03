@@ -1,0 +1,20 @@
+{
+  "name": "TIK TOK BOT",
+  "description": "Telegram BOT to Download TikTok Videos ",
+  "repository": "https://github.com/Single-Developers/TikTok-DL-BOT",
+  "logo": "https://i.ibb.co/T0qdn7x/20220303-174141.jpg",
+  "keywords": ["telegram", "bot", "api", "tiktok"],
+  "env": {
+    "BOT_TOKEN": {
+            "description": "◈──Bot father Api Token Hear──◈",
+            "required": true
+    "API_ID": {
+            "description": "YOUR API ID PASTE HEAR",
+            "required": true
+    "API_HASH": {
+            "description": "YOUR API HASH PASTE HEAR",
+            "required": true
+
+    }
+  }
+}
