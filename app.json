@@ -6,8 +6,11 @@
   "keywords": ["telegram", "bot", "api", "tiktok"],
   "env": {
     "BOT_TOKEN": {
-            "description": "◈──Bot father Api Token Hear──◈",
+            "description": "API Token for your Telegram bot (Take it from @BotFather)",
             "required": true
     }
   }
 }
+© 2022 GitHub, Inc.
+Terms
+Privacy
