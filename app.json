@@ -8,13 +8,6 @@
     "BOT_TOKEN": {
             "description": "◈──Bot father Api Token Hear──◈",
             "required": true
-    "API_ID": {
-            "description": "YOUR API ID PASTE HEAR",
-            "required": true
-    "API_HASH": {
-            "description": "YOUR API HASH PASTE HEAR",
-            "required": true
-
     }
   }
 }
