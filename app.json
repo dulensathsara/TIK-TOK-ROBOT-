@@ -8,6 +8,9 @@
     "BOT_TOKEN": {
             "description": "◈──Bot father Api Token Hear──◈",
             "required": true
+    "BOT_USERNAME": {
+            "description": "◈──Bot USER NAME──◈",
+            "required": true
     }
   }
 }
